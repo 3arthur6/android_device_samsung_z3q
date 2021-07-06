@@ -1,0 +1,1 @@
+Galaxy S20 Ultra 5G Snapdragon (z3q) recovery device tree
